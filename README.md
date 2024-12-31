@@ -1,4 +1,4 @@
-# Hammer King - 2D Unity Game
+# Hammered Oath - 2D Unity Game
 
 ## Introduction
 
